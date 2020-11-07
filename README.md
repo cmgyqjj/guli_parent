@@ -1,4 +1,4 @@
-# guli_parent
+# guli后端部分
 
 ## 简介
 guli在线教育项目是尚硅谷开发的一套在线教育系统，使用SpringBoot+SpringCLoud实现。
